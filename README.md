@@ -1,1 +1,4 @@
-# michellealves
+Estudante de Administração na PUCRS e autodidata na área de dados por meio de cursos, certificações e projetos independentes.
+Atualmente, contribuo ativamente para comunidades relacionadas à análise de dados, onde compartilho experiências, aprendizados e insights com outros profissionais da área. Com uma sólida base nesse conhecimento, minha atuação na multinacional em que trabalho se concentra no planejamento de demanda, onde aplico técnicas analíticas para otimizar processos e tomar decisões informadas.
+
+Meu objetivo de carreira é consolidar minha trajetória no campo da análise de dados, buscando oportunidades que me permitam aplicar minha paixão por transformar informações em insights significativos. Tenho como meta continuar aprendendo e desenvolvendo minhas habilidades técnicas, ao mesmo tempo em que contribuo para projetos desafiadores que demandam análises precisas e soluções inovadoras.
